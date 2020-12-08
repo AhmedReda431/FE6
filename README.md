@@ -20,8 +20,8 @@ npm run build
 npm run lint
 ```
 ###### for production
-1-npm run build
-2-npm install -g serve
-3-serve -s dist
+##### 1-npm run build
+##### 2-npm install -g serve
+##### 3-serve -s dist
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
