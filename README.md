@@ -25,3 +25,5 @@ npm run lint
 ##### 3-serve -s dist
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### live preview : https://vigilant-jang-1d9589.netlify.app/
